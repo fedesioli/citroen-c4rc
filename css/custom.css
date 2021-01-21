@@ -8,13 +8,13 @@
 
 **********************************************************************************/
 
-@media (max-width: 850px){
+@media (max-width: 400px){
 	#hero{
-		background-image: url(/imgss/heromobile2.jpg);
+		background-image: url(/imgss/heromobile.jpg);
 	}
 
 }
-@media (min-width: 851px){
+@media (min-width: 401px){
 	#hero{
 		background-image: url(/imgss/HERO-1920x900.jpg);
 	}
