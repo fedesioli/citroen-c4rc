@@ -7,3 +7,16 @@
 	Note: This is custom css.
 
 **********************************************************************************/
+
+@media (max-width: 850px){
+	#hero{
+		background-image: url(/imgss/heromobile2.jpg);
+	}
+
+}
+@media (min-width: 851px){
+	#hero{
+		background-image: url(/imgss/HERO-1920x900.jpg);
+	}
+
+}
