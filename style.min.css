@@ -392,7 +392,7 @@ body {
     line-height: 24px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     color: #333;
     font-weight: 400
 }
@@ -985,7 +985,7 @@ select {
 }
 
 .primary-font {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .heading-font {
@@ -10136,7 +10136,7 @@ body.template-color-41 .text-color {
 }
 
 .body-font {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .heading-font {
@@ -10952,7 +10952,7 @@ button.bk-btn {
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 0;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 a.bk-btn.theme-btn,
@@ -10985,7 +10985,7 @@ button.brook-btn {
     box-shadow: 0 10px 20px rgba(0, 0, 0, .07);
     font-weight: 600;
     letter-spacing: 0;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     display: inline-block;
     text-align: center;
     white-space: nowrap;
@@ -11352,7 +11352,7 @@ a.moredetails-btn.yellow-color-2:hover {
     margin-left: 14px;
     color: #fcb72b;
     font-size: 14px;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .view-more-btn a span.btn-arrow::before {
@@ -11699,7 +11699,7 @@ a.moredetails-btn.yellow-color-2:hover {
     letter-spacing: 1px;
     text-transform: uppercase;
     line-height: 1.43;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     margin-bottom: 39px
 }
 
@@ -12127,7 +12127,7 @@ a.moredetails-btn.yellow-color-2:hover {
     font-weight: 600;
     font-size: 14px;
     color: #fff;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     white-space: nowrap;
     line-height: 1.2
 }
@@ -12270,7 +12270,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.38;
     margin-bottom: 18px;
     color: #222;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-weight: 600
 }
 
@@ -12392,7 +12392,7 @@ a.moredetails-btn.yellow-color-2:hover {
     font-weight: 600;
     letter-spacing: 0;
     line-height: 1.23;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .service.service--3 .content h3 a {
@@ -12843,7 +12843,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.43;
     margin-bottom: 0;
     word-wrap: break-word;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .number-speaks .content h2 {
@@ -12898,7 +12898,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.39;
     margin-bottom: 0;
     color: #222;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-weight: 600
 }
 
@@ -12977,7 +12977,7 @@ a.moredetails-btn.yellow-color-2:hover {
     letter-spacing: 1px;
     text-transform: uppercase;
     line-height: 1.43;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .team-heading .heading-right button {
@@ -12987,7 +12987,7 @@ a.moredetails-btn.yellow-color-2:hover {
     font-weight: 600;
     font-size: 14px;
     color: #222;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .team-heading .heading-right button i {
@@ -13213,7 +13213,7 @@ a.moredetails-btn.yellow-color-2:hover {
     margin-bottom: 4px;
     color: #222;
     font-weight: 600;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .team.team_style--1 .info span {
@@ -13364,7 +13364,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.388;
     margin-bottom: 6px;
     color: #fff;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .team.team__style--2 .thumb .team-info .info span {
@@ -13465,7 +13465,7 @@ a.moredetails-btn.yellow-color-2:hover {
     font-size: 18px;
     line-height: 1.388;
     margin-bottom: 6px;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .team.team__style--3 .team-info .info span {
@@ -13539,7 +13539,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.4;
     margin-bottom: 2px;
     color: #222;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .team.team_style--4 .inner .content-body .position {
@@ -14005,7 +14005,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.56;
     margin-bottom: 0;
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     margin: 0 0 18px
 }
 
@@ -14200,7 +14200,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.375;
     margin-bottom: 0;
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     margin: 0 0 18px
 }
 
@@ -14213,7 +14213,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.12;
     margin-bottom: 0;
     font-weight: 600;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .blog-style--1 .blog-content .content h6.post-quote-by a {
@@ -14520,7 +14520,7 @@ a.moredetails-btn.yellow-color-2:hover {
     cursor: pointer;
     -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, .07);
     box-shadow: 0 10px 20px rgba(0, 0, 0, .07);
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     color: #fff;
     border-color: #208897;
     background-color: #208897;
@@ -14557,7 +14557,7 @@ a.moredetails-btn.yellow-color-2:hover {
     background-color: #208897;
     font-size: 14px;
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     border-radius: 6px;
     -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
     -o-transition: all .3s cubic-bezier(.645, .045, .355, 1);
@@ -14916,7 +14916,7 @@ a.moredetails-btn.yellow-color-2:hover {
     font-weight: 600;
     font-size: 14px;
     color: #fff;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     white-space: nowrap;
     line-height: 1.2
 }
@@ -15109,7 +15109,7 @@ a.moredetails-btn.yellow-color-2:hover {
     -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
     -o-transition: all .3s cubic-bezier(.645, .045, .355, 1);
     transition: all .3s cubic-bezier(.645, .045, .355, 1);
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-weight: 600;
     font-size: 14px
 }
@@ -16042,7 +16042,7 @@ a.moredetails-btn.yellow-color-2:hover {
 }
 
 .social-icon.tooltip-layout li a[class*=hint--][aria-label]:after {
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-weight: 600;
     line-height: 1.23;
     content: attr(aria-label)
@@ -16337,7 +16337,7 @@ a[class*=hint--]:before {
 }
 
 a[class*=hint--][aria-label]:after {
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-weight: 600;
     line-height: 1.23;
     content: attr(aria-label)
@@ -17390,7 +17390,7 @@ a:hover.hint--bottom::after {
     font-size: 18px;
     margin-bottom: 14px;
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     line-height: 1.23
 }
 
@@ -17398,7 +17398,7 @@ a:hover.hint--bottom::after {
     line-height: 1.58;
     font-size: 14px;
     font-weight: 500;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     color: #333;
     margin: 0
 }
@@ -17542,7 +17542,7 @@ a:hover.hint--bottom::after {
     bottom: -31px;
     font-size: 14px !important;
     color: #999;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .time_circles>div>span {
@@ -18002,7 +18002,7 @@ a:hover.hint--bottom::after {
     border-radius: 50%;
     text-align: center;
     z-index: 3;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .bk-gradation .item-grid .content {
@@ -18239,7 +18239,7 @@ a:hover.hint--bottom::after {
 .ht-pricing-list-view thead tr th.pricing-header .heading-h4 {
     font-size: 24px;
     color: #222;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-weight: 600;
     letter-spacing: 0;
     line-height: 1.23;
@@ -18249,7 +18249,7 @@ a:hover.hint--bottom::after {
 .ht-pricing-list-view thead tr th.pricing-header .heading-h6 {
     font-size: 14px;
     color: #222;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-weight: 600;
     letter-spacing: 0;
     line-height: 1.23;
@@ -19235,7 +19235,7 @@ a:hover.hint--bottom::after {
     margin-bottom: 6px;
     color: #222;
     font-weight: 600;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .testimonial_style--1 .content .testimonial-info .clint-info span {
@@ -19243,7 +19243,7 @@ a:hover.hint--bottom::after {
     font-weight: 500;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .testimonial_style--1 .content .testimonial-quote {
@@ -19490,7 +19490,7 @@ a:hover.hint--bottom::after {
     font-size: 18px;
     line-height: 1.388;
     margin-bottom: 4px;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .testimonial_style--2 .content .testimonial-info .clint-info span {
@@ -19498,7 +19498,7 @@ a:hover.hint--bottom::after {
     letter-spacing: 0;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -19635,7 +19635,7 @@ a:hover.hint--bottom::after {
     font-weight: 700;
     display: inline-block;
     margin-bottom: 0;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .testimonial-nav-content .testimonial-nav .content .testimonial-info .clint-info span {
@@ -19666,7 +19666,7 @@ a:hover.hint--bottom::after {
     font-weight: 700;
     display: inline-block;
     margin-bottom: 0;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .testimonial-nav-content.testimonial-content--2 .testimonial-nav .content .testimonial-info .clint-info span {
@@ -19742,7 +19742,7 @@ a:hover.hint--bottom::after {
     font-size: 18px;
     line-height: 1.388;
     margin-bottom: 4px;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     color: #fff
 }
 
@@ -19751,7 +19751,7 @@ a:hover.hint--bottom::after {
     letter-spacing: 0;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     color: #fff
 }
 
@@ -19812,7 +19812,7 @@ a:hover.hint--bottom::after {
     margin-bottom: 6px;
     color: #fff;
     font-weight: 600;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .testimonial_style--4 .content .testimonial-info .clint-info span {
@@ -19820,7 +19820,7 @@ a:hover.hint--bottom::after {
     font-weight: 500;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .testimonial_style--5 .content {
@@ -19859,7 +19859,7 @@ a:hover.hint--bottom::after {
     margin-bottom: 6px;
     color: #fff;
     font-weight: 600;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .testimonial_style--5 .content .testimonial-info .clint-info span {
@@ -19867,7 +19867,7 @@ a:hover.hint--bottom::after {
     font-weight: 500;
     line-height: 1.58;
     font-size: 18px;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 @media only screen and (max-width:767px) {
@@ -20639,7 +20639,7 @@ audio {
     font-weight: 600;
     line-height: 1.41;
     font-size: 32px;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .breadcaump-area.breadcaump-title-bar .breadcaump-inner .heading.heading-h1 {
@@ -20687,7 +20687,7 @@ audio {
     -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
     -o-transition: all .3s cubic-bezier(.645, .045, .355, 1);
     transition: all .3s cubic-bezier(.645, .045, .355, 1);
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .breadcaump-area.breadcaump-title-bar .breadcaump-inner .breadcrumb-insite ul.core-breadcaump li a::after {
@@ -21178,7 +21178,7 @@ audio {
     color: #fff;
     border-color: #208897;
     background-color: #208897;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     height: 55px;
     line-height: 53px;
     outline: 0;
@@ -21380,7 +21380,7 @@ audio {
     border: 0 solid transparent;
     border-bottom: 1px solid #444;
     color: #fff;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .mega__width--fullscreen .mega__list li a span {
@@ -21550,7 +21550,7 @@ audio {
 
 .heading {
     color: #222;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-weight: 600;
     letter-spacing: 0;
     line-height: 1.23;
@@ -22057,7 +22057,7 @@ p.bk_pra {
     font-weight: 500;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 @media only screen and (max-width:767px) {
@@ -22253,7 +22253,7 @@ p.bk_pra.line-height-2-22 {
     font-weight: 600;
     line-height: 1.625;
     color: #222;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-style: normal
 }
 
@@ -23188,7 +23188,7 @@ p.bk_pra.line-height-2-22 {
     font-weight: 500;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .message-box.bg_cat--1 {
@@ -23257,7 +23257,7 @@ p.bk_pra.line-height-2-22 {
     padding: 0;
     font-weight: 600;
     border: 0 none;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     -webkit-appearance: none;
     display: block;
     background: #f7f7f7;
@@ -23296,7 +23296,7 @@ p.bk_pra.line-height-2-22 {
     letter-spacing: 0;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     border: 0 none;
     -webkit-box-shadow: 0 20px 40px rgba(0, 0, 0, .07);
     box-shadow: 0 20px 40px rgba(0, 0, 0, .07);
@@ -23326,7 +23326,7 @@ p.bk_pra.line-height-2-22 {
     padding: 0;
     font-weight: 600;
     border: 0 none;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     -webkit-appearance: none;
     display: block;
     position: relative;
@@ -23369,7 +23369,7 @@ p.bk_pra.line-height-2-22 {
     font-weight: 500;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     border: 0 none;
     -webkit-box-shadow: inherit;
     box-shadow: inherit;
@@ -24285,7 +24285,7 @@ body.loaded .page-loading {
     margin: 0;
     font-weight: 600;
     letter-spacing: 0;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 @media only screen and (max-width:767px) {
@@ -25343,7 +25343,7 @@ body.loaded .page-loading {
     -ms-flex-positive: 1;
     flex-grow: 1;
     font-weight: 600;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .portfolio-cation .port-overlay-info .hover-action .post-overlay-title a {
@@ -25410,7 +25410,7 @@ body.loaded .page-loading {
     -o-transition: all .3s cubic-bezier(.645, .045, .355, 1);
     transition: all .3s cubic-bezier(.645, .045, .355, 1);
     font-weight: 600;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .messonry-button button span.filter-counter::before {
@@ -27994,7 +27994,7 @@ body.loaded .page-loading {
     margin-bottom: 20px;
     padding-bottom: 11px;
     border-bottom: 1px solid #eee;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-weight: 600;
     line-height: 1.23;
     color: #222
@@ -28194,7 +28194,7 @@ body.loaded .page-loading {
     margin-bottom: 20px;
     padding-bottom: 11px;
     border-bottom: 1px solid #eee;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-weight: 600;
     line-height: 1.23;
     color: #222
@@ -30907,7 +30907,7 @@ a {
     font-weight: 600;
     line-height: 1.18;
     font-size: 16px;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     color: #208897;
     padding-top: 41px;
     padding-bottom: 41px;
@@ -32219,7 +32219,7 @@ header.br_header.header-default.header-fixed {
     font-size: 18px;
     line-height: 1.4;
     margin-bottom: 21px;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-weight: 600;
     margin: 0 0 18px
 }
@@ -34517,7 +34517,7 @@ header.br_header.header-default.header-fixed {
 .product .product-info .price span {
     display: inline-block;
     color: #333;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .product .product-info .price span.new-price {
@@ -34710,7 +34710,7 @@ header.br_header.header-default.header-fixed {
 }
 
 .product .product-thumbnail .product-action .action-list.tooltip-layout li a[class*=hint--][aria-label]:after {
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-weight: 600;
     line-height: 1.23;
     content: attr(aria-label)
@@ -35343,7 +35343,7 @@ header.br_header.header-default.header-fixed {
     border-bottom-color: transparent;
     margin-bottom: 19px;
     padding-bottom: 13px;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .footer-widget .footer-menu ul.ft-menu-list {
@@ -35434,7 +35434,7 @@ header.br_header.header-default.header-fixed {
 }
 
 .footer-widget.text-var--2 .footer-menu ul.ft-menu-list li a {
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-size: 14px;
     font-weight: 500;
     letter-spacing: 0;
@@ -35444,13 +35444,13 @@ header.br_header.header-default.header-fixed {
 .footer-widget.text-var--2 .footer-address p {
     font-size: 14px;
     font-weight: 500;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .footer-widget.text-var--2 .footer-address p a {
     font-size: 14px;
     font-weight: 500;
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .footer-widget.news-bulletin .heading {
@@ -35567,12 +35567,12 @@ header.br_header.header-default.header-fixed {
 }
 
 .copyright.text-var-2 .copyright-left ul.bk-copyright-menu li a {
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     font-size: 14px
 }
 
 .copyright.text-var-2 .copyright-right p {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 .copyright.copyright--2 .copyright-left p {
@@ -61006,7 +61006,7 @@ body.template-font-1 h3,
 body.template-font-1 h4,
 body.template-font-1 h5,
 body.template-font-1 h6 {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 body.template-font-1 .heading.font-reenie {
@@ -61014,56 +61014,56 @@ body.template-font-1 .heading.font-reenie {
 }
 
 body.template-font-1 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 body.template-font-1 .mega__width--fullscreen .mega__list li a span {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 body.template-font-1 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1>a span {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 body.template-font-1 .footer-widget .footer-menu ul.ft-menu-list li a {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 body.template-font-1 .copyright ul.bk-copyright-menu li a {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 body.template-font-1 .copyright .copyright-right p {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 body.template-font-1 .footer-widget .footer-address p {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 body.template-font-1 .form-style--1 .input-box input,
 body.template-font-1 .form-style--1 .input-box textarea {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 body.template-font-1 .testimonial_style--1 .content p {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 body.template-font-1 .testimonial_style--1 .content .testimonial-info .clint-info span {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 body.template-font-1 .service.service--1 .content p {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 body.template-font-1 .service.service--2 .content h4 {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 body.template-font-1 .service.service--2 .content p {
-    font-family: Poppins, sans-serif
+    font-family: citroen
 }
 
 body.template-font-2 .h1,
@@ -61625,7 +61625,7 @@ body.template-font-8 .service.service--2 .content p {
 
 .pv-service-wrapper .single-grid .inner h4 {
     font-size: 20px;
-    font-family: Poppins, sans-serif;
+    font-family: citroen
     line-height: 1.4;
     margin-bottom: 0;
     word-wrap: break-word;

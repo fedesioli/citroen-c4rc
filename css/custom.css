@@ -20,3 +20,16 @@
 	}
 
 }
+
+@font-face{
+	font-family: "citroen";
+	src: url(/fonts/Citroen-Regular.ttf);
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: "citroen-bold";
+	src: url(/fonts/Citroen-Bold.ttf);
+	font-weight: normal;
+	font-style: normal;
+}
