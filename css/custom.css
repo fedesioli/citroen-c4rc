@@ -10,13 +10,13 @@
 
 @media (max-width: 400px){
 	#hero{
-		background-image: url(/imgss/heromobile.jpg);
+		background-image: url(/imgss/HERO-mobile-376x820.png);
 	}
 
 }
 @media (min-width: 401px){
 	#hero{
-		background-image: url(/imgss/HERO-1920x900-corridoizquierda.jpg);
+		background-image: url(/imgss/HERO-1920x900-CORREG-02.png);
 	}
 
 }
